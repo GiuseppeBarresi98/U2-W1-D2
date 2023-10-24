@@ -186,8 +186,30 @@ h1 + p {
   color: blue;
 }
 
+.fa-plus-square {
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0.351);
+  border: 2px solid black;
+  border-radius: 10%;
+}
+.fa-calendar-alt {
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0.351);
+  border: 2px solid black;
+  border-radius: 10%;
+}
+
+.fa-caret-square-up {
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0.351);
+  border: 2px solid black;
+  border-radius: 10%;
+}
+
 #second-ancor {
   position: fixed;
+  background-color: white;
+  border-radius: 10%;
 
   top: 80%;
   right: 10px;
