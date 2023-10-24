@@ -329,6 +329,13 @@ iframe {
   iframe {
     height: 267px;
   }
+  #first-ancor {
+    top: 15%;
+  }
+
+  #second-ancor {
+    top: 25%;
+  }
 }
 
 /* TABELLE */
